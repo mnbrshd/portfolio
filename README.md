@@ -9,6 +9,7 @@ This repository is to act like a high level overview of the machine learning pro
 - [Modern Computer Vision™ PyTorch, Tensorflow2 Keras & OpenCV4](https://www.udemy.com/course/modern-computer-vision/) (Ongoing)
 - [Complete C# Unity Game Developer 3D](https://www.udemy.com/certificate/UC-05d0eb27-934d-43ef-9713-1c51ea322fe9/)
 - [Learn Unity Shaders from Scratch](https://www.udemy.com/certificate/UC-b0d8bde5-7638-4e37-8e93-978c7c1e742b/)
+- [React JS Tutorial for Beginners 2022](https://www.youtube.com/playlist?list=PLSsAz5wf2lkK_ekd0J__44KG6QoXetZza)
 
 ## Book List
 

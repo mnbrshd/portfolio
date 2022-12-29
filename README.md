@@ -4,7 +4,7 @@ This repository is to act like a high level overview of the machine learning pro
 
 ## Projects List
 
-- [Todo App made in React.js](mybasic-todo-app.netlify.app)
+- [Todo App made in React.js](https://mybasic-todo-app.netlify.app)
 
 ## Courses List
 

@@ -4,9 +4,9 @@ This repository is to act like a high level overview of the machine learning pro
 
 ## Projects List
 
-- #[Todo app made in React.js](https://mybasic-todo-app.netlify.app)
+- [Todo app made in React.js](https://mybasic-todo-app.netlify.app)
     - This is a basic React application where you can create a task in a todo list and delete it once it is done.
-- #[Travel Advisor app made in React.js](https://travel-advisor-jsmuneeb.netlify.app/)
+- [Travel Advisor app made in React.js](https://travel-advisor-jsmuneeb.netlify.app/)
     - This is a React application that tells a user about local attractions, hotels and restaurants depending on the user's location.
 
 ## Courses List

@@ -4,6 +4,8 @@ This repository is to act like a high level overview of the machine learning pro
 
 ## Projects List
 
+- [Todo App made in React.js](mybasic-todo-app.netlify.app)
+
 ## Courses List
 
 - [Modern Computer Vision™ PyTorch, Tensorflow2 Keras & OpenCV4](https://www.udemy.com/course/modern-computer-vision/) (Ongoing)

@@ -4,7 +4,7 @@ This repository is to act like a high level overview of the machine learning pro
 
 ## Projects List
 
-- Microscope Debugging Application (Private)
+- Microscope Data Debugging Application (Private)
     - This application reads large JPEG images (e.g. 30000x30000) and loads them as shader material textures in Unity. The textures are being loaded into the GPU at           runtime. User can assign colors, zoom, pan and enable or disable a texture depending on their needs of inspection. 
     - Made using C#, Unity, Cg (Vertex and Fragment Shaders)
 - [Todo App](https://mybasic-todo-app.netlify.app)

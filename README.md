@@ -3,7 +3,7 @@
 This repository is to act like a high level overview of the machine learning projects I've worked on. Each project's `README.md` should act as a full description of the project, but I'll provide a short description here for convenience. Links are provided to projects whose code can be made public.
 
 ## Projects List
-- [Biorhythm Calculator] (https://munsbiorhythmcalculator.netlify.app/)
+- [Biorhythm Calculator](https://munsbiorhythmcalculator.netlify.app/)
     - The biorhythm theory is the pseudoscientific idea that our daily lives are significantly affected by rhythmic cycles with periods of exactly 23, 28 and 33 days, typically a 23-day physical cycle, a 28-day emotional cycle, and a 33-day intellectual cycle.
     - Made using React.js, Ionic, Rechart.js and Day.js
 - Microscope Data Debugging Application (Private)
